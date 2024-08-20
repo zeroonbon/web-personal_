@@ -44,36 +44,10 @@
 -->
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=9000&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=435&lines=Project-Tugas-Mario-Less!">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=9000&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=435&lines=By sp?, Bagong nih">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=9000&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=435&lines=Welcome-to-project!">
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=9000&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=435&lines=By SIJAX kece dan ganteng">
 </div>
 
-
-## Langkah nya broo<!-- Required -->
-MARIO LESS
-
-Langkah: buat folder di gitHub melalui terminal yang bernama Mario_less
-Kemudian ikuti petunjuk dari CS50 dibawah:
-
-https://cs50.harvard.edu/x/2023/psets/1/mario/less/
-
-Materi:
-https://cdn.cs50.net/2022/fall/psets/1/mario-less.zip
-
-https://youtu.be/aGLTy7Rjgho
-
-## Cmd <!-- Required -->
-<!-- 
-* Here you may add information about how 
-* 
-* and why to use this project.
--->
-
-
-
-```bash
-    ./mario
-```
 
 
 
